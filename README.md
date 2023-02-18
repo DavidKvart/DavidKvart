@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+welcome to my GitHub profile! My name is David Kvart, and I'm a skilled software developer with experience in Node.js, Python, React, React Native, MongoDB, SQL, and Socket. I'm passionate about staying up-to-date with the latest technologies and enjoy challenging myself to learn new skills. On my profile, you'll find a variety of projects and code samples that showcase my experience and skills. Feel free to explore and check out some of my work. I'm always looking to collaborate and connect with other developers, so don't hesitate to reach out. Thank you for visiting!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKvart)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DavidKvart/DavidKvart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
