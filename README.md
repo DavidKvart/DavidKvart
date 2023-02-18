@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm David kvary</h1>
-<h3 align="center">"I'm a im a skilled software developer eager to create innovative solutions.</h3>
+<h1 align="center">Hi 👋, I'm David kvart</h1>
+<h3 align="center">I'm a software developer eager to create innovative solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidkvart&label=Profile%20views&color=0e75b6&style=flat" alt="davidkvart" /> </p>
+
+<p align="left"> <img src="https://res.cloudinary.com/dfcmf6gbn/image/upload/v1676704474/backround_l9h3oz.jpg" alt="davidkvart" /> </p>
+- 🔭 I’m currently working on **Gether**
 
 - 🌱 I’m currently learning **cyber sercurity**
 
-- 👯 I’m looking to collaborate [GETHER](https://github.com/DavidKvart/getherExpoClient.git)
+- 👯 I’m looking to collaborate [on Gether](https://github.com/DavidKvart/getherExpoClient.git)
 
 - 💬 Ask me about **react, javascript, pyton , node , mongoDB, SQL**
 
