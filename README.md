@@ -3,13 +3,9 @@
 
 
 <p align="left"> <img src="https://res.cloudinary.com/dfcmf6gbn/image/upload/v1676704474/backround_l9h3oz.jpg" alt="davidkvart" /> </p>
-- 🔭 I’m currently working on **Gether**
+- 🔭 I’m currently working as  backend developer
 
-- 🌱 I’m currently learning **cyber sercurity**
-
-- 👯 I’m looking to collaborate [on Gether](https://github.com/DavidKvart/getherExpoClient.git)
-
-- 💬 Ask me about **react, javascript, pyton , node , mongoDB, SQL**
+- 💬 Ask me about **react, javascript, pyton , node , mongoDB, SQL, network protocols, microservices**
 
 - 📫 How to reach me **davidkvarts@gmail.com**
 
